@@ -43,8 +43,8 @@ namespace RomanCalc
                         System.Console.Clear();
                         return;
                     case 1:
-                          int surma= LaunchSubadditionMenu(result);
-                            if (surma == 0)
+                          
+                            if (result == 0)
                                 return;
                         break;
                     case 2:
