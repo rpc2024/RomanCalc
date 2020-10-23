@@ -1,0 +1,17 @@
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\bin\Debug\netcoreapp2.1\RomanCalc.deps.json
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\bin\Debug\netcoreapp2.1\RomanCalc.runtimeconfig.json
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\bin\Debug\netcoreapp2.1\RomanCalc.runtimeconfig.dev.json
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\bin\Debug\netcoreapp2.1\RomanCalc.dll
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\bin\Debug\netcoreapp2.1\RomanCalc.pdb
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.csprojAssemblyReference.cache
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.csproj.CoreCompileInputs.cache
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.AssemblyInfoInputs.cache
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.AssemblyInfo.cs
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.dll
+C:\Users\galiano19648\Desktop\repos\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.pdb
+C:\Users\pchelintsev21214\Desktop\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.csprojAssemblyReference.cache
+C:\Users\pchelintsev21214\Desktop\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.csproj.CoreCompileInputs.cache
+C:\Users\pchelintsev21214\Desktop\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.AssemblyInfoInputs.cache
+C:\Users\pchelintsev21214\Desktop\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.AssemblyInfo.cs
+C:\Users\pchelintsev21214\Desktop\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.dll
+C:\Users\pchelintsev21214\Desktop\RomanCalc\RomanCalc\RomanCalc\obj\Debug\netcoreapp2.1\RomanCalc.pdb
